@@ -19,7 +19,6 @@
 * Build strong **DSA fundamentals**.
 * Improve **logical thinking and problem-solving**.
 * Practice consistently for **coding interviews and placements**.
-* Track my progress and keep learning through practice.
 
 ## 
 
