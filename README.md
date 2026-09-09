@@ -5,7 +5,7 @@
 * LeetCode problems solved using **Java**.
 * Focused on **Data Structures & Algorithms**.
 * Created to improve **problem-solving and coding skills**.
-* Solutions are organized problem-wise for easy reference.
+* Solutions are organized problem-wise for easy reference
 
 ## Structure
 
